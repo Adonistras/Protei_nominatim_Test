@@ -1,0 +1,3461 @@
+[
+    {
+        "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+        "lat": "76.9053119",
+        "lon": "-93.5025588",
+        "address": {
+            "place_id": 298717169,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9493166,
+            "lat": "76.9053119",
+            "lon": "-93.5025588",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4711452259955522,
+            "addresstype": "state_district",
+            "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+            "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "51.1453318",
+                "83.3362128",
+                "-110.003308",
+                "-59.6136767"
+            ]
+        }
+    },
+    {
+        "display_name": "Баацагаан, Баянхонгор, Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ",
+        "name": "Баацагаан",
+        "lat": "45.6116726",
+        "lon": "99.4326647802381",
+        "address": {
+            "place_id": 298572595,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 7304761,
+            "lat": "45.6116726",
+            "lon": "99.4326647802381",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.2850481715152184,
+            "addresstype": "county",
+            "name": "Баацагаан",
+            "display_name": "Баацагаан, Баянхонгор, Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ",
+            "address": {
+                "county": "Баацагаан",
+                "state": "Баянхонгор",
+                "ISO3166-2-lvl4": "MN-069",
+                "country": "Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ",
+                "country_code": "mn"
+            },
+            "boundingbox": [
+                "45.1620536",
+                "46.0760829",
+                "98.6928774",
+                "100.3334906"
+            ]
+        }
+    },
+    {
+        "display_name": "Doufelgou, Région de la Kara, Togo",
+        "name": "Doufelgou",
+        "lat": "9.87120045",
+        "lon": "1.1762304268401662",
+        "address": {
+            "place_id": 297987202,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3338036,
+            "lat": "9.87120045",
+            "lon": "1.1762304268401662",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.27234374910307113,
+            "addresstype": "county",
+            "name": "Doufelgou",
+            "display_name": "Doufelgou, Région de la Kara, Togo",
+            "address": {
+                "county": "Doufelgou",
+                "state": "Région de la Kara",
+                "ISO3166-2-lvl4": "TG-K",
+                "country": "Togo",
+                "country_code": "tg"
+            },
+            "boundingbox": [
+                "9.638044",
+                "10.1066244",
+                "0.8376916",
+                "1.3588463"
+            ]
+        }
+    },
+    {
+        "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+        "lat": "76.9053119",
+        "lon": "-93.5025588",
+        "address": {
+            "place_id": 298717169,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9493166,
+            "lat": "76.9053119",
+            "lon": "-93.5025588",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4711452259955522,
+            "addresstype": "state_district",
+            "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+            "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "51.1453318",
+                "83.3362128",
+                "-110.003308",
+                "-59.6136767"
+            ]
+        }
+    },
+    {
+        "display_name": "Ленский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+        "name": "Ленский улус",
+        "lat": "60.41383935",
+        "lon": "112.51858898769224",
+        "address": {
+            "place_id": 297414222,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 189766,
+            "lat": "60.41383935",
+            "lon": "112.51858898769224",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3846031730840318,
+            "addresstype": "county",
+            "name": "Ленский улус",
+            "display_name": "Ленский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+            "address": {
+                "county": "Ленский улус",
+                "state": "Республика Саха (Якутия)",
+                "ISO3166-2-lvl4": "RU-SA",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "58.8896699",
+                "61.9375894",
+                "109.2398044",
+                "117.4900889"
+            ]
+        }
+    },
+    {
+        "display_name": "Oudtshoorn Ward 2, Oudtshoorn Local Municipality, Garden Route District Municipality, Western Cape, 6620, South Africa",
+        "name": "Oudtshoorn Ward 2",
+        "lat": "-33.611906000000005",
+        "lon": "22.052167487888823",
+        "address": {
+            "place_id": 298172767,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 6581031,
+            "lat": "-33.611906000000005",
+            "lon": "22.052167487888823",
+            "place_rank": 20,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.25,
+            "addresstype": "suburb",
+            "name": "Oudtshoorn Ward 2",
+            "display_name": "Oudtshoorn Ward 2, Oudtshoorn Local Municipality, Garden Route District Municipality, Western Cape, 6620, South Africa",
+            "address": {
+                "suburb": "Oudtshoorn Ward 2",
+                "city": "Oudtshoorn Local Municipality",
+                "county": "Garden Route District Municipality",
+                "state": "Western Cape",
+                "ISO3166-2-lvl4": "ZA-WC",
+                "postcode": "6620",
+                "country": "South Africa",
+                "country_code": "za"
+            },
+            "boundingbox": [
+                "-33.872309",
+                "-33.351807",
+                "21.6573894",
+                "22.2171055"
+            ]
+        }
+    },
+    {
+        "display_name": "городской округ Новая Земля, Архангельская область, Северо-Западный федеральный округ, 163055, Россия",
+        "name": "городской округ Новая Земля",
+        "lat": "73.70839015",
+        "lon": "55.78298319647347",
+        "address": {
+            "place_id": 297941198,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1329568,
+            "lat": "73.70839015",
+            "lon": "55.78298319647347",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.28564946798579893,
+            "addresstype": "county",
+            "name": "городской округ Новая Земля",
+            "display_name": "городской округ Новая Земля, Архангельская область, Северо-Западный федеральный округ, 163055, Россия",
+            "address": {
+                "county": "городской округ Новая Земля",
+                "state": "Архангельская область",
+                "ISO3166-2-lvl4": "RU-ARK",
+                "region": "Северо-Западный федеральный округ",
+                "postcode": "163055",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "70.2199265",
+                "77.24278",
+                "50.7883868",
+                "69.9572252"
+            ]
+        }
+    },
+    {
+        "display_name": "Novo Aripuanã, Região Geográfica Imediata de Manicoré, Região Geográfica Intermediária de Lábrea, Amazonas, Região Norte, Brasil",
+        "name": null,
+        "lat": "-7.5698570829091585",
+        "lon": "-61.03211657467652",
+        "address": {
+            "place_id": 206298990,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 453995464,
+            "lat": "-7.5698570829091585",
+            "lon": "-61.03211657467652",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Novo Aripuanã, Região Geográfica Imediata de Manicoré, Região Geográfica Intermediária de Lábrea, Amazonas, Região Norte, Brasil",
+            "address": {
+                "city_district": "Novo Aripuanã",
+                "town": "Novo Aripuanã",
+                "municipality": "Região Geográfica Imediata de Manicoré",
+                "state_district": "Região Geográfica Intermediária de Lábrea",
+                "state": "Amazonas",
+                "ISO3166-2-lvl4": "BR-AM",
+                "region": "Região Norte",
+                "country": "Brasil",
+                "country_code": "br"
+            },
+            "boundingbox": [
+                "-7.7060583",
+                "-7.4213015",
+                "-61.0541434",
+                "-61.0098452"
+            ]
+        }
+    },
+    {
+        "display_name": "ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+        "lat": "63.5511048",
+        "lon": "-92.6471525",
+        "address": {
+            "place_id": 298602991,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9489819,
+            "lat": "63.5511048",
+            "lon": "-92.6471525",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4265984015254268,
+            "addresstype": "state_district",
+            "name": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+            "display_name": "ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "56.9678793",
+                "67.0000001",
+                "-105.0082979",
+                "-80.0207693"
+            ]
+        }
+    },
+    {
+        "display_name": "Fairbanks North Star, Alaska, United States",
+        "name": "Fairbanks North Star",
+        "lat": "64.8649039",
+        "lon": "-146.7751619",
+        "address": {
+            "place_id": 297641125,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2605273,
+            "lat": "64.8649039",
+            "lon": "-146.7751619",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4718492686751449,
+            "addresstype": "county",
+            "name": "Fairbanks North Star",
+            "display_name": "Fairbanks North Star, Alaska, United States",
+            "address": {
+                "county": "Fairbanks North Star",
+                "state": "Alaska",
+                "ISO3166-2-lvl4": "US-AK",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "64.257854",
+                "65.454475",
+                "-148.667164",
+                "-143.884795"
+            ]
+        }
+    },
+    {
+        "display_name": "Labrador, Newfoundland and Labrador, Canada",
+        "name": "Labrador",
+        "lat": "55.911486100000005",
+        "lon": "-61.70191480532777",
+        "address": {
+            "place_id": 299086846,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9610205,
+            "lat": "55.911486100000005",
+            "lon": "-61.70191480532777",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.5255116908848939,
+            "addresstype": "state_district",
+            "name": "Labrador",
+            "display_name": "Labrador, Newfoundland and Labrador, Canada",
+            "address": {
+                "state_district": "Labrador",
+                "state": "Newfoundland and Labrador",
+                "ISO3166-2-lvl4": "CA-NL",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "51.3459175",
+                "60.4770255",
+                "-67.8216853",
+                "-55.2050993"
+            ]
+        }
+    },
+    {
+        "display_name": "Starr County, Texas, United States",
+        "name": null,
+        "lat": "26.76828082134305",
+        "lon": "-98.38259655865802",
+        "address": {
+            "place_id": 108695648,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 21242571,
+            "lat": "26.76828082134305",
+            "lon": "-98.38259655865802",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "residential",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Starr County, Texas, United States",
+            "address": {
+                "county": "Starr County",
+                "state": "Texas",
+                "ISO3166-2-lvl4": "US-TX",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "26.767529",
+                "26.769448",
+                "-98.382644",
+                "-98.382566"
+            ]
+        }
+    },
+    {
+        "display_name": "North Slope, Alaska, United States",
+        "name": "North Slope",
+        "lat": "69.5335129",
+        "lon": "-153.8220681",
+        "address": {
+            "place_id": 297860498,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2605296,
+            "lat": "69.5335129",
+            "lon": "-153.8220681",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.48124568467107626,
+            "addresstype": "county",
+            "name": "North Slope",
+            "display_name": "North Slope, Alaska, United States",
+            "address": {
+                "county": "North Slope",
+                "state": "Alaska",
+                "ISO3166-2-lvl4": "US-AK",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "67.99894",
+                "71.441059",
+                "-166.985511",
+                "-141.0005917"
+            ]
+        }
+    },
+    {
+        "display_name": "Artigas, Uruguay",
+        "name": "Artigas",
+        "lat": "-30.6170756",
+        "lon": "-56.9373451",
+        "address": {
+            "place_id": 297629500,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1617618,
+            "lat": "-30.6170756",
+            "lon": "-56.9373451",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.44744010159809716,
+            "addresstype": "state",
+            "name": "Artigas",
+            "display_name": "Artigas, Uruguay",
+            "address": {
+                "state": "Artigas",
+                "ISO3166-2-lvl4": "UY-AR",
+                "country": "Uruguay",
+                "country_code": "uy"
+            },
+            "boundingbox": [
+                "-31.0826652",
+                "-30.0853962",
+                "-57.8900314",
+                "-55.989596"
+            ]
+        }
+    },
+    {
+        "display_name": "Sells District, Pima County, Arizona, United States",
+        "name": "Sells District",
+        "lat": "31.94940005",
+        "lon": "-111.98380433217373",
+        "address": {
+            "place_id": 299427231,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 13708181,
+            "lat": "31.94940005",
+            "lon": "-111.98380433217373",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "Sells District",
+            "display_name": "Sells District, Pima County, Arizona, United States",
+            "address": {
+                "municipality": "Sells District",
+                "county": "Pima County",
+                "state": "Arizona",
+                "ISO3166-2-lvl4": "US-AZ",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "31.733302",
+                "32.1395228",
+                "-112.1520091",
+                "-111.8191108"
+            ]
+        }
+    },
+    {
+        "display_name": "Robertsganj, Sonbhadra, Uttar Pradesh, India",
+        "name": "Robertsganj",
+        "lat": "24.5977192",
+        "lon": "83.16261211845588",
+        "address": {
+            "place_id": 298941966,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 10038070,
+            "lat": "24.5977192",
+            "lon": "83.16261211845588",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.45,
+            "addresstype": "county",
+            "name": "Robertsganj",
+            "display_name": "Robertsganj, Sonbhadra, Uttar Pradesh, India",
+            "address": {
+                "county": "Robertsganj",
+                "state_district": "Sonbhadra",
+                "state": "Uttar Pradesh",
+                "ISO3166-2-lvl4": "IN-UP",
+                "country": "India",
+                "country_code": "in"
+            },
+            "boundingbox": [
+                "24.2938722",
+                "24.9018909",
+                "82.712996",
+                "83.54815"
+            ]
+        }
+    },
+    {
+        "display_name": "وادي الشاطئ, ليبيا",
+        "name": null,
+        "lat": "28.657883351178643",
+        "lon": "11.954401225104572",
+        "address": {
+            "place_id": 346970623,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1098350547,
+            "lat": "28.657883351178643",
+            "lon": "11.954401225104572",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.10000999999999993,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "وادي الشاطئ, ليبيا",
+            "address": {
+                "state": "وادي الشاطئ",
+                "ISO3166-2-lvl4": "LY-WS",
+                "country": "ليبيا",
+                "country_code": "ly"
+            },
+            "boundingbox": [
+                "28.4312367",
+                "28.6600802",
+                "11.7473674",
+                "12.5267342"
+            ]
+        }
+    },
+    {
+        "display_name": "Комунівська сільська рада, Донецька область, 84583, Україна",
+        "name": "Комунівська сільська рада",
+        "lat": "48.352000149999995",
+        "lon": "38.33052049338195",
+        "address": {
+            "place_id": 297912913,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3946174,
+            "lat": "48.352000149999995",
+            "lon": "38.33052049338195",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.22887635671362175,
+            "addresstype": "city",
+            "name": "Комунівська сільська рада",
+            "display_name": "Комунівська сільська рада, Донецька область, 84583, Україна",
+            "address": {
+                "subdistrict": "Комунівська сільська рада",
+                "state": "Донецька область",
+                "ISO3166-2-lvl4": "UA-14",
+                "postcode": "84583",
+                "country": "Україна",
+                "country_code": "ua"
+            },
+            "boundingbox": [
+                "48.3003888",
+                "48.4021142",
+                "38.2493726",
+                "38.3961185"
+            ]
+        }
+    },
+    {
+        "display_name": "Семенкинский сельсовет, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452034, Россия",
+        "name": "Семенкинский сельсовет",
+        "lat": "54.33597775",
+        "lon": "54.28113533572474",
+        "address": {
+            "place_id": 298225651,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2512735,
+            "lat": "54.33597775",
+            "lon": "54.28113533572474",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.2868347429646153,
+            "addresstype": "municipality",
+            "name": "Семенкинский сельсовет",
+            "display_name": "Семенкинский сельсовет, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452034, Россия",
+            "address": {
+                "municipality": "Семенкинский сельсовет",
+                "county": "Белебеевский район",
+                "state": "Башкортостан",
+                "ISO3166-2-lvl4": "RU-BA",
+                "region": "Приволжский федеральный округ",
+                "postcode": "452034",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "54.2433731",
+                "54.428775",
+                "54.2269766",
+                "54.4111653"
+            ]
+        }
+    },
+    {
+        "display_name": "Adjungbilly, Snowy Valleys Council, Cootamundra-Gundagai Regional Council, New South Wales, 2727, Australia",
+        "name": null,
+        "lat": "-35.141371",
+        "lon": "148.5270882",
+        "address": {
+            "place_id": 222693659,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 556163791,
+            "lat": "-35.141371",
+            "lon": "148.5270882",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Adjungbilly, Snowy Valleys Council, Cootamundra-Gundagai Regional Council, New South Wales, 2727, Australia",
+            "address": {
+                "hamlet": "Adjungbilly",
+                "municipality": "Snowy Valleys Council",
+                "county": "Cootamundra-Gundagai Regional Council",
+                "state": "New South Wales",
+                "ISO3166-2-lvl4": "AU-NSW",
+                "postcode": "2727",
+                "country": "Australia",
+                "country_code": "au"
+            },
+            "boundingbox": [
+                "-35.1450381",
+                "-35.1339308",
+                "148.5232794",
+                "148.5457563"
+            ]
+        }
+    },
+    {
+        "display_name": "ولسوالی المار, ولایت فاریاب, افغانستان",
+        "name": "ولسوالی المار",
+        "lat": "35.956008",
+        "lon": "64.278347",
+        "address": {
+            "place_id": 298971008,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 6578893,
+            "lat": "35.956008",
+            "lon": "64.278347",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3988108992764025,
+            "addresstype": "county",
+            "name": "ولسوالی المار",
+            "display_name": "ولسوالی المار, ولایت فاریاب, افغانستان",
+            "address": {
+                "county": "ولسوالی المار",
+                "state": "ولایت فاریاب",
+                "ISO3166-2-lvl4": "AF-FYB",
+                "country": "افغانستان",
+                "country_code": "af"
+            },
+            "boundingbox": [
+                "35.7366799",
+                "36.167324",
+                "63.9904303",
+                "64.5941314"
+            ]
+        }
+    },
+    {
+        "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+        "lat": "76.9053119",
+        "lon": "-93.5025588",
+        "address": {
+            "place_id": 298717169,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9493166,
+            "lat": "76.9053119",
+            "lon": "-93.5025588",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4711452259955522,
+            "addresstype": "state_district",
+            "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+            "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "51.1453318",
+                "83.3362128",
+                "-110.003308",
+                "-59.6136767"
+            ]
+        }
+    },
+    {
+        "display_name": "Haut-Katanga, République démocratique du Congo",
+        "name": "Haut-Katanga",
+        "lat": "-10.51971805",
+        "lon": "27.843280398048478",
+        "address": {
+            "place_id": 297343977,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 193085,
+            "lat": "-10.51971805",
+            "lon": "27.843280398048478",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4109789065133428,
+            "addresstype": "state",
+            "name": "Haut-Katanga",
+            "display_name": "Haut-Katanga, République démocratique du Congo",
+            "address": {
+                "state": "Haut-Katanga",
+                "ISO3166-2-lvl4": "CD-HK",
+                "country": "République démocratique du Congo",
+                "country_code": "cd"
+            },
+            "boundingbox": [
+                "-13.459035",
+                "-7.5803099",
+                "25.4868189",
+                "29.8147861"
+            ]
+        }
+    },
+    {
+        "display_name": "Coari, Região Geográfica Imediata de Coari, Região Geográfica Intermediária de Manaus, Amazonas, Região Norte, 69460-000, Brasil",
+        "name": "Coari",
+        "lat": "-4.0355",
+        "lon": "-63.534749999999995",
+        "address": {
+            "place_id": 298597685,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 6252141,
+            "lat": "-4.0355",
+            "lon": "-63.534749999999995",
+            "place_rank": 18,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3,
+            "addresstype": "city_district",
+            "name": "Coari",
+            "display_name": "Coari, Região Geográfica Imediata de Coari, Região Geográfica Intermediária de Manaus, Amazonas, Região Norte, 69460-000, Brasil",
+            "address": {
+                "city_district": "Coari",
+                "town": "Coari",
+                "municipality": "Região Geográfica Imediata de Coari",
+                "state_district": "Região Geográfica Intermediária de Manaus",
+                "state": "Amazonas",
+                "ISO3166-2-lvl4": "BR-AM",
+                "region": "Região Norte",
+                "postcode": "69460-000",
+                "country": "Brasil",
+                "country_code": "br"
+            },
+            "boundingbox": [
+                "-5.806",
+                "-2.265",
+                "-65.9",
+                "-62.256"
+            ]
+        }
+    },
+    {
+        "display_name": "Коробецкое сельское поселение, Ельнинский район, Смоленская область, Центральный федеральный округ, 216365, Россия",
+        "name": "Коробецкое сельское поселение",
+        "lat": "54.538538700000004",
+        "lon": "33.490857636116885",
+        "address": {
+            "place_id": 298292078,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3371268,
+            "lat": "54.538538700000004",
+            "lon": "33.490857636116885",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.23181178765025975,
+            "addresstype": "municipality",
+            "name": "Коробецкое сельское поселение",
+            "display_name": "Коробецкое сельское поселение, Ельнинский район, Смоленская область, Центральный федеральный округ, 216365, Россия",
+            "address": {
+                "municipality": "Коробецкое сельское поселение",
+                "county": "Ельнинский район",
+                "state": "Смоленская область",
+                "ISO3166-2-lvl4": "RU-SMO",
+                "region": "Центральный федеральный округ",
+                "postcode": "216365",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "54.3901438",
+                "54.688028",
+                "33.261628",
+                "33.7797875"
+            ]
+        }
+    },
+    {
+        "display_name": "городское поселение Диксон, Таймырский Долгано-Ненецкий район, Красноярский край, Сибирский федеральный округ, Россия",
+        "name": "городское поселение Диксон",
+        "lat": "76.8175152",
+        "lon": "100.78019727140472",
+        "address": {
+            "place_id": 298169433,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 7008176,
+            "lat": "76.8175152",
+            "lon": "100.78019727140472",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "городское поселение Диксон",
+            "display_name": "городское поселение Диксон, Таймырский Долгано-Ненецкий район, Красноярский край, Сибирский федеральный округ, Россия",
+            "address": {
+                "municipality": "городское поселение Диксон",
+                "county": "Таймырский Долгано-Ненецкий район",
+                "state": "Красноярский край",
+                "ISO3166-2-lvl4": "RU-KYA",
+                "region": "Сибирский федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "72.162722",
+                "81.4741807",
+                "77.5767974",
+                "108.9924394"
+            ]
+        }
+    },
+    {
+        "display_name": "Туманы, Богородский муниципальный округ, Кировская область, Приволжский федеральный округ, Россия",
+        "name": null,
+        "lat": "57.76902137768275",
+        "lon": "50.87888190274014",
+        "address": {
+            "place_id": 181606391,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 318071262,
+            "lat": "57.76902137768275",
+            "lon": "50.87888190274014",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Туманы, Богородский муниципальный округ, Кировская область, Приволжский федеральный округ, Россия",
+            "address": {
+                "village": "Туманы",
+                "county": "Богородский муниципальный округ",
+                "state": "Кировская область",
+                "ISO3166-2-lvl4": "RU-KIR",
+                "region": "Приволжский федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "57.6949458",
+                "57.7879786",
+                "50.860778",
+                "50.9005897"
+            ]
+        }
+    },
+    {
+        "display_name": "ዞባ ሰሜናዊ ቀይሕ ባሕሪ Northern Red Sea شمال البحر الأحمر, ኤርትራ Eritrea إرتريا",
+        "name": "ዞባ ሰሜናዊ ቀይሕ ባሕሪ Northern Red Sea شمال البحر الأحمر",
+        "lat": "16",
+        "lon": "39",
+        "address": {
+            "place_id": 297983241,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 4610926,
+            "lat": "16",
+            "lon": "39",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.45877085291223746,
+            "addresstype": "state",
+            "name": "ዞባ ሰሜናዊ ቀይሕ ባሕሪ Northern Red Sea شمال البحر الأحمر",
+            "display_name": "ዞባ ሰሜናዊ ቀይሕ ባሕሪ Northern Red Sea شمال البحر الأحمر, ኤርትራ Eritrea إرتريا",
+            "address": {
+                "state": "ዞባ ሰሜናዊ ቀይሕ ባሕሪ Northern Red Sea شمال البحر الأحمر",
+                "ISO3166-2-lvl4": "ER-SK",
+                "country": "ኤርትራ Eritrea إرتريا",
+                "country_code": "er"
+            },
+            "boundingbox": [
+                "14.3662517",
+                "18.0709917",
+                "37.9576762",
+                "41.0849993"
+            ]
+        }
+    },
+    {
+        "display_name": "Landi, Taita Taveta, Coastal Kenya, Kenya",
+        "name": "Landi",
+        "lat": "-3.4803728",
+        "lon": "38.4441868",
+        "address": {
+            "place_id": 56787634,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 5056125128,
+            "lat": "-3.4803728",
+            "lon": "38.4441868",
+            "place_rank": 19,
+            "category": "place",
+            "type": "village",
+            "importance": 0.275,
+            "addresstype": "village",
+            "name": "Landi",
+            "display_name": "Landi, Taita Taveta, Coastal Kenya, Kenya",
+            "address": {
+                "village": "Landi",
+                "state": "Taita Taveta",
+                "ISO3166-2-lvl4": "KE-39",
+                "region": "Coastal Kenya",
+                "country": "Kenya",
+                "country_code": "ke"
+            },
+            "boundingbox": [
+                "-3.5003728",
+                "-3.4603728",
+                "38.4241868",
+                "38.4641868"
+            ]
+        }
+    },
+    {
+        "display_name": "رقان, Daïra de Reggane, Adrar ⴰⴷⵔⴰⵔ أدرار, 01200, Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+        "name": "رقان",
+        "lat": "26.7207267",
+        "lon": "0.1751507",
+        "address": {
+            "place_id": 298057062,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 4171617,
+            "lat": "26.7207267",
+            "lon": "0.1751507",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.41470152591076137,
+            "addresstype": "city",
+            "name": "رقان",
+            "display_name": "رقان, Daïra de Reggane, Adrar ⴰⴷⵔⴰⵔ أدرار, 01200, Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+            "address": {
+                "town": "رقان",
+                "county": "Daïra de Reggane",
+                "state": "Adrar ⴰⴷⵔⴰⵔ أدرار",
+                "ISO3166-2-lvl4": "DZ-01",
+                "postcode": "01200",
+                "country": "Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+                "country_code": "dz"
+            },
+            "boundingbox": [
+                "23.994949",
+                "26.995251",
+                "-5.668261",
+                "1.438878"
+            ]
+        }
+    },
+    {
+        "display_name": "大泉湾乡, 伊州区, 哈密市, 新疆维吾尔自治区, 中国",
+        "name": "大泉湾乡",
+        "lat": "42.7354",
+        "lon": "93.8968655",
+        "address": {
+            "place_id": 298807919,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 14094305,
+            "lat": "42.7354",
+            "lon": "93.8968655",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.23596835560244186,
+            "addresstype": "suburb",
+            "name": "大泉湾乡",
+            "display_name": "大泉湾乡, 伊州区, 哈密市, 新疆维吾尔自治区, 中国",
+            "address": {
+                "town": "大泉湾乡",
+                "district": "伊州区",
+                "city": "哈密市",
+                "state": "新疆维吾尔自治区",
+                "ISO3166-2-lvl4": "CN-XJ",
+                "country": "中国",
+                "country_code": "cn"
+            },
+            "boundingbox": [
+                "41.1916027",
+                "42.8058743",
+                "93.7095448",
+                "94.8101406"
+            ]
+        }
+    },
+    {
+        "display_name": "Rashad, ولاية جنوب كردفان, السودان",
+        "name": "Rashad",
+        "lat": "11.9739599",
+        "lon": "30.837197834420863",
+        "address": {
+            "place_id": 298688150,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 8539508,
+            "lat": "11.9739599",
+            "lon": "30.837197834420863",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "Rashad",
+            "display_name": "Rashad, ولاية جنوب كردفان, السودان",
+            "address": {
+                "municipality": "Rashad",
+                "county": "Rashad",
+                "state": "ولاية جنوب كردفان",
+                "ISO3166-2-lvl4": "SD-KS",
+                "country": "السودان",
+                "country_code": "sd"
+            },
+            "boundingbox": [
+                "11.5728598",
+                "12.3797398",
+                "30.5820694",
+                "31.39394"
+            ]
+        }
+    },
+    {
+        "display_name": "Las Grutas, Departamento San Antonio, Río Negro, Argentina",
+        "name": "Las Grutas",
+        "lat": "-40.99382145",
+        "lon": "-65.47633599512861",
+        "address": {
+            "place_id": 298671431,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 6666034,
+            "lat": "-40.99382145",
+            "lon": "-65.47633599512861",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "Las Grutas",
+            "display_name": "Las Grutas, Departamento San Antonio, Río Negro, Argentina",
+            "address": {
+                "municipality": "Las Grutas",
+                "state_district": "Departamento San Antonio",
+                "state": "Río Negro",
+                "ISO3166-2-lvl4": "AR-R",
+                "country": "Argentina",
+                "country_code": "ar"
+            },
+            "boundingbox": [
+                "-41.2441915",
+                "-40.7436284",
+                "-65.7900773",
+                "-65.0216575"
+            ]
+        }
+    },
+    {
+        "display_name": "муниципальный округ Кировск, Мурманская область, Северо-Западный федеральный округ, Россия",
+        "name": "муниципальный округ Кировск",
+        "lat": "67.4928565",
+        "lon": "34.152292858848355",
+        "address": {
+            "place_id": 298040886,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1043404,
+            "lat": "67.4928565",
+            "lon": "34.152292858848355",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.26443130976830337,
+            "addresstype": "county",
+            "name": "муниципальный округ Кировск",
+            "display_name": "муниципальный округ Кировск, Мурманская область, Северо-Западный федеральный округ, Россия",
+            "address": {
+                "county": "муниципальный округ Кировск",
+                "state": "Мурманская область",
+                "ISO3166-2-lvl4": "RU-MUR",
+                "region": "Северо-Западный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "67.0622184",
+                "67.9192871",
+                "33.5293675",
+                "34.8074586"
+            ]
+        }
+    },
+    {
+        "display_name": "Namtumbo, Ruvuma, Southern Highlands Zone, Tanzania",
+        "name": "Namtumbo",
+        "lat": "-10.672895650000001",
+        "lon": "36.19023882034902",
+        "address": {
+            "place_id": 298777431,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 13015739,
+            "lat": "-10.672895650000001",
+            "lon": "36.19023882034902",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.19324803174625985,
+            "addresstype": "state_district",
+            "name": "Namtumbo",
+            "display_name": "Namtumbo, Ruvuma, Southern Highlands Zone, Tanzania",
+            "address": {
+                "state_district": "Namtumbo",
+                "state": "Ruvuma",
+                "ISO3166-2-lvl4": "TZ-21",
+                "region": "Southern Highlands Zone",
+                "country": "Tanzania",
+                "country_code": "tz"
+            },
+            "boundingbox": [
+                "-11.761254",
+                "-9.5863475",
+                "35.6459196",
+                "37.1419955"
+            ]
+        }
+    },
+    {
+        "display_name": "ጋሽ-ባርካ Gash-Barka القاش وبركة, ኤርትራ Eritrea إرتريا",
+        "name": "ጋሽ-ባርካ Gash-Barka القاش وبركة",
+        "lat": "15.25",
+        "lon": "37.5",
+        "address": {
+            "place_id": 298528862,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 4605551,
+            "lat": "15.25",
+            "lon": "37.5",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4367726626278903,
+            "addresstype": "state",
+            "name": "ጋሽ-ባርካ Gash-Barka القاش وبركة",
+            "display_name": "ጋሽ-ባርካ Gash-Barka القاش وبركة, ኤርትራ Eritrea إرتريا",
+            "address": {
+                "state": "ጋሽ-ባርካ Gash-Barka القاش وبركة",
+                "ISO3166-2-lvl4": "ER-GB",
+                "country": "ኤርትራ Eritrea إرتريا",
+                "country_code": "er"
+            },
+            "boundingbox": [
+                "14.1809545",
+                "16.2986283",
+                "36.4333653",
+                "38.7623392"
+            ]
+        }
+    },
+    {
+        "display_name": "Mountain Valley Road, Scott County, Arkansas, United States",
+        "name": "Mountain Valley Road",
+        "lat": "35.003204",
+        "lon": "-94.183635",
+        "address": {
+            "place_id": 104583452,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 12930151,
+            "lat": "35.003204",
+            "lon": "-94.183635",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "residential",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": "Mountain Valley Road",
+            "display_name": "Mountain Valley Road, Scott County, Arkansas, United States",
+            "address": {
+                "road": "Mountain Valley Road",
+                "county": "Scott County",
+                "state": "Arkansas",
+                "ISO3166-2-lvl4": "US-AR",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "35.003091",
+                "35.010226",
+                "-94.184759",
+                "-94.178961"
+            ]
+        }
+    },
+    {
+        "display_name": "الوادي الجديد, مصر",
+        "name": "الوادي الجديد",
+        "lat": "24.8766665",
+        "lon": "28.775734531760392",
+        "address": {
+            "place_id": 298351908,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3061827,
+            "lat": "24.8766665",
+            "lon": "28.775734531760392",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4591304361922809,
+            "addresstype": "state",
+            "name": "الوادي الجديد",
+            "display_name": "الوادي الجديد, مصر",
+            "address": {
+                "state": "الوادي الجديد",
+                "ISO3166-2-lvl4": "EG-WAD",
+                "country": "مصر",
+                "country_code": "eg"
+            },
+            "boundingbox": [
+                "22",
+                "27.7489122",
+                "24.996944",
+                "32.740192"
+            ]
+        }
+    },
+    {
+        "display_name": "Akumal, Quintana Roo, 77737, México",
+        "name": "Akumal",
+        "lat": "20.396826",
+        "lon": "-87.314288",
+        "address": {
+            "place_id": 6806218,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 854200484,
+            "lat": "20.396826",
+            "lon": "-87.314288",
+            "place_rank": 19,
+            "category": "place",
+            "type": "village",
+            "importance": 0.32207530601372336,
+            "addresstype": "village",
+            "name": "Akumal",
+            "display_name": "Akumal, Quintana Roo, 77737, México",
+            "address": {
+                "village": "Akumal",
+                "state": "Quintana Roo",
+                "ISO3166-2-lvl4": "MX-ROO",
+                "postcode": "77737",
+                "country": "México",
+                "country_code": "mx"
+            },
+            "boundingbox": [
+                "20.376826",
+                "20.416826",
+                "-87.334288",
+                "-87.294288"
+            ]
+        }
+    },
+    {
+        "display_name": "용영동, 삭주군, 평안북도, 조선민주주의인민공화국",
+        "name": "용영동",
+        "lat": "40.3770371",
+        "lon": "125.1705837",
+        "address": {
+            "place_id": 70890011,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 6657441015,
+            "lat": "40.3770371",
+            "lon": "125.1705837",
+            "place_rank": 19,
+            "category": "place",
+            "type": "village",
+            "importance": 0.275,
+            "addresstype": "village",
+            "name": "용영동",
+            "display_name": "용영동, 삭주군, 평안북도, 조선민주주의인민공화국",
+            "address": {
+                "village": "용영동",
+                "county": "삭주군",
+                "state": "평안북도",
+                "ISO3166-2-lvl4": "KP-03",
+                "country": "조선민주주의인민공화국",
+                "country_code": "kp"
+            },
+            "boundingbox": [
+                "40.3570371",
+                "40.3970371",
+                "125.1505837",
+                "125.1905837"
+            ]
+        }
+    },
+    {
+        "display_name": "Талданский сельсовет, Сковородинский район, Амурская область, Дальневосточный федеральный округ, 676009, Россия",
+        "name": "Талданский сельсовет",
+        "lat": "53.77129825",
+        "lon": "124.81955246503827",
+        "address": {
+            "place_id": 298443802,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3974850,
+            "lat": "53.77129825",
+            "lon": "124.81955246503827",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "Талданский сельсовет",
+            "display_name": "Талданский сельсовет, Сковородинский район, Амурская область, Дальневосточный федеральный округ, 676009, Россия",
+            "address": {
+                "municipality": "Талданский сельсовет",
+                "county": "Сковородинский район",
+                "state": "Амурская область",
+                "ISO3166-2-lvl4": "RU-AMU",
+                "region": "Дальневосточный федеральный округ",
+                "postcode": "676009",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "53.5230312",
+                "54.0196791",
+                "124.271099",
+                "125.3896531"
+            ]
+        }
+    },
+    {
+        "display_name": "တန့်ယန်း, လားရှိုးခရိုင်, ရှမ်းပြည်နယ်မြောက်ပိုင်း, ရှမ်းပြည်နယ် Shan State, မြန်မာ",
+        "name": "တန့်ယန်း",
+        "lat": "22.41137675",
+        "lon": "98.42465945876276",
+        "address": {
+            "place_id": 297988220,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 5996844,
+            "lat": "22.41137675",
+            "lon": "98.42465945876276",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3375275887814967,
+            "addresstype": "city",
+            "name": "တန့်ယန်း",
+            "display_name": "တန့်ယန်း, လားရှိုးခရိုင်, ရှမ်းပြည်နယ်မြောက်ပိုင်း, ရှမ်းပြည်နယ် Shan State, မြန်မာ",
+            "address": {
+                "city": "တန့်ယန်း",
+                "county": "လားရှိုးခရိုင်",
+                "state_district": "ရှမ်းပြည်နယ်မြောက်ပိုင်း",
+                "state": "ရှမ်းပြည်နယ် Shan State",
+                "ISO3166-2-lvl4": "MM-17",
+                "country": "မြန်မာ",
+                "country_code": "mm"
+            },
+            "boundingbox": [
+                "21.8389595",
+                "22.9849756",
+                "98.0173946",
+                "98.7665923"
+            ]
+        }
+    },
+    {
+        "display_name": "Amapá, Região Norte, Brasil",
+        "name": "Amapá",
+        "lat": "1.3545442",
+        "lon": "-51.9161977",
+        "address": {
+            "place_id": 297157275,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 331463,
+            "lat": "1.3545442",
+            "lon": "-51.9161977",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.55637160272763,
+            "addresstype": "state",
+            "name": "Amapá",
+            "display_name": "Amapá, Região Norte, Brasil",
+            "address": {
+                "state": "Amapá",
+                "ISO3166-2-lvl4": "BR-AP",
+                "region": "Região Norte",
+                "country": "Brasil",
+                "country_code": "br"
+            },
+            "boundingbox": [
+                "-1.236919",
+                "4.6731083",
+                "-54.8769236",
+                "-49.3361709"
+            ]
+        }
+    },
+    {
+        "display_name": "Plateaux, Mai-Ndombe, République démocratique du Congo",
+        "name": "Plateaux",
+        "lat": "-3.0701495000000003",
+        "lon": "16.62452757314927",
+        "address": {
+            "place_id": 298078922,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 5327613,
+            "lat": "-3.0701495000000003",
+            "lon": "16.62452757314927",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.26271918857886256,
+            "addresstype": "county",
+            "name": "Plateaux",
+            "display_name": "Plateaux, Mai-Ndombe, République démocratique du Congo",
+            "address": {
+                "county": "Plateaux",
+                "state": "Mai-Ndombe",
+                "ISO3166-2-lvl4": "CD-MN",
+                "country": "République démocratique du Congo",
+                "country_code": "cd"
+            },
+            "boundingbox": [
+                "-4.2453425",
+                "-1.8841535",
+                "15.8947221",
+                "17.9427024"
+            ]
+        }
+    },
+    {
+        "display_name": "Gueltat Zemmour ⴳⵓⵍⵜⴰⵜ ⵣⵎⵎⵓⵔ گلتة زمور, caïdat de Gueltat Zemour قيادة كولتة زمور, cercle de Jraifia دائرة الجريفية, Province de Boujdour إقليم بوجدور, Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب",
+        "name": "Gueltat Zemmour ⴳⵓⵍⵜⴰⵜ ⵣⵎⵎⵓⵔ گلتة زمور",
+        "lat": "25.148848",
+        "lon": "-12.369461",
+        "address": {
+            "place_id": 297991121,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3552440,
+            "lat": "25.148848",
+            "lon": "-12.369461",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.28913902627280497,
+            "addresstype": "city",
+            "name": "Gueltat Zemmour ⴳⵓⵍⵜⴰⵜ ⵣⵎⵎⵓⵔ گلتة زمور",
+            "display_name": "Gueltat Zemmour ⴳⵓⵍⵜⴰⵜ ⵣⵎⵎⵓⵔ گلتة زمور, caïdat de Gueltat Zemour قيادة كولتة زمور, cercle de Jraifia دائرة الجريفية, Province de Boujdour إقليم بوجدور, Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب",
+            "address": {
+                "village": "Gueltat Zemmour ⴳⵓⵍⵜⴰⵜ ⵣⵎⵎⵓⵔ گلتة زمور",
+                "municipality": "caïdat de Gueltat Zemour قيادة كولتة زمور",
+                "county": "cercle de Jraifia دائرة الجريفية",
+                "state_district": "Province de Boujdour إقليم بوجدور",
+                "ISO3166-2-lvl5": "MA-BOD",
+                "country": "Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب",
+                "country_code": "ma"
+            },
+            "boundingbox": [
+                "24.3800588",
+                "26.0617025",
+                "-13.8910502",
+                "-11.9999959"
+            ]
+        }
+    },
+    {
+        "display_name": "Perú",
+        "name": "Perú",
+        "lat": "-6.8699697",
+        "lon": "-75.0458515",
+        "address": {
+            "place_id": 343046199,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 288247,
+            "lat": "-6.8699697",
+            "lon": "-75.0458515",
+            "place_rank": 4,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.7624059239253266,
+            "addresstype": "country",
+            "name": "Perú",
+            "display_name": "Perú",
+            "address": {
+                "country": "Perú",
+                "country_code": "pe"
+            },
+            "boundingbox": [
+                "-20.1984472",
+                "-0.0392818",
+                "-84.6356535",
+                "-68.6519906"
+            ]
+        }
+    },
+    {
+        "display_name": "Νότια Κύπρος, Κύπρος - Kıbrıs",
+        "name": "Νότια Κύπρος",
+        "lat": "34.90447175",
+        "lon": "32.89751596663332",
+        "address": {
+            "place_id": 297717371,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3263726,
+            "lat": "34.90447175",
+            "lon": "32.89751596663332",
+            "place_rank": 6,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.6,
+            "addresstype": "region",
+            "name": "Νότια Κύπρος",
+            "display_name": "Νότια Κύπρος, Κύπρος - Kıbrıs",
+            "address": {
+                "state": "Νότια Κύπρος",
+                "country": "Κύπρος - Kıbrıs",
+                "country_code": "cy"
+            },
+            "boundingbox": [
+                "34.4383706",
+                "35.3721113",
+                "32.0227581",
+                "34.3338842"
+            ]
+        }
+    },
+    {
+        "display_name": "Le Bousquet, Lédergues, Millau, Aveyron, Occitanie, France métropolitaine, 12170, France",
+        "name": null,
+        "lat": "44.05845278552969",
+        "lon": "2.443195666402977",
+        "address": {
+            "place_id": 182989802,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 325775342,
+            "lat": "44.05845278552969",
+            "lon": "2.443195666402977",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "residential",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Le Bousquet, Lédergues, Millau, Aveyron, Occitanie, France métropolitaine, 12170, France",
+            "address": {
+                "hamlet": "Le Bousquet",
+                "village": "Lédergues",
+                "municipality": "Millau",
+                "county": "Aveyron",
+                "ISO3166-2-lvl6": "FR-12",
+                "state": "Occitanie",
+                "ISO3166-2-lvl4": "FR-OCC",
+                "region": "France métropolitaine",
+                "postcode": "12170",
+                "country": "France",
+                "country_code": "fr"
+            },
+            "boundingbox": [
+                "44.0584159",
+                "44.0588281",
+                "2.4430421",
+                "2.444033"
+            ]
+        }
+    },
+    {
+        "display_name": "Kalaallit Nunaat",
+        "name": "Kalaallit Nunaat",
+        "lat": "77.6192349",
+        "lon": "-42.8125967",
+        "address": {
+            "place_id": 297656739,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2184073,
+            "lat": "77.6192349",
+            "lon": "-42.8125967",
+            "place_rank": 4,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.6774248677562027,
+            "addresstype": "country",
+            "name": "Kalaallit Nunaat",
+            "display_name": "Kalaallit Nunaat",
+            "address": {
+                "country": "Kalaallit Nunaat",
+                "country_code": "gl"
+            },
+            "boundingbox": [
+                "59.515387",
+                "83.875172",
+                "-74.1250416",
+                "-10.0288759"
+            ]
+        }
+    },
+    {
+        "display_name": "دهستان دوکوهه, بخش سه قلعه, شهرستان سرایان, استان خراسان جنوبی, ایران",
+        "name": "دهستان دوکوهه",
+        "lat": "33.21287805",
+        "lon": "57.903763145341046",
+        "address": {
+            "place_id": 298265943,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 6557295,
+            "lat": "33.21287805",
+            "lon": "57.903763145341046",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "city",
+            "name": "دهستان دوکوهه",
+            "display_name": "دهستان دوکوهه, بخش سه قلعه, شهرستان سرایان, استان خراسان جنوبی, ایران",
+            "address": {
+                "city": "دهستان دوکوهه",
+                "district": "بخش سه قلعه",
+                "county": "شهرستان سرایان",
+                "state": "استان خراسان جنوبی",
+                "ISO3166-2-lvl4": "IR-29",
+                "country": "ایران",
+                "country_code": "ir"
+            },
+            "boundingbox": [
+                "32.8565186",
+                "33.571199",
+                "57.7692028",
+                "58.8643903"
+            ]
+        }
+    },
+    {
+        "display_name": "Kalaallit Nunaat",
+        "name": "Kalaallit Nunaat",
+        "lat": "77.6192349",
+        "lon": "-42.8125967",
+        "address": {
+            "place_id": 297656739,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2184073,
+            "lat": "77.6192349",
+            "lon": "-42.8125967",
+            "place_rank": 4,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.6774248677562027,
+            "addresstype": "country",
+            "name": "Kalaallit Nunaat",
+            "display_name": "Kalaallit Nunaat",
+            "address": {
+                "country": "Kalaallit Nunaat",
+                "country_code": "gl"
+            },
+            "boundingbox": [
+                "59.515387",
+                "83.875172",
+                "-74.1250416",
+                "-10.0288759"
+            ]
+        }
+    },
+    {
+        "display_name": "Аяно-Майский район, Хабаровский край, Дальневосточный федеральный округ, Россия",
+        "name": "Аяно-Майский район",
+        "lat": "57.44882735",
+        "lon": "135.90101432302066",
+        "address": {
+            "place_id": 297903241,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1650458,
+            "lat": "57.44882735",
+            "lon": "135.90101432302066",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3415213678433922,
+            "addresstype": "county",
+            "name": "Аяно-Майский район",
+            "display_name": "Аяно-Майский район, Хабаровский край, Дальневосточный федеральный округ, Россия",
+            "address": {
+                "county": "Аяно-Майский район",
+                "state": "Хабаровский край",
+                "ISO3166-2-lvl4": "RU-KHA",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "55.3732542",
+                "59.5261066",
+                "130.8599307",
+                "140.9240294"
+            ]
+        }
+    },
+    {
+        "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+        "lat": "76.9053119",
+        "lon": "-93.5025588",
+        "address": {
+            "place_id": 298717169,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9493166,
+            "lat": "76.9053119",
+            "lon": "-93.5025588",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4711452259955522,
+            "addresstype": "state_district",
+            "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+            "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "51.1453318",
+                "83.3362128",
+                "-110.003308",
+                "-59.6136767"
+            ]
+        }
+    },
+    {
+        "display_name": "Maniitsoq, Qeqqata, 3912, Kalaallit Nunaat",
+        "name": "Maniitsoq",
+        "lat": "66.05243565",
+        "lon": "-47.67034489555848",
+        "address": {
+            "place_id": 338688320,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 36831,
+            "lat": "66.05243565",
+            "lon": "-47.67034489555848",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.35,
+            "addresstype": "city",
+            "name": "Maniitsoq",
+            "display_name": "Maniitsoq, Qeqqata, Kalaallit Nunaat",
+            "address": {
+                "city": "Maniitsoq",
+                "municipality": "Qeqqata",
+                "ISO3166-2-lvl4": "GL-QE",
+                "country": "Kalaallit Nunaat",
+                "country_code": "gl"
+            },
+            "boundingbox": [
+                "65.1973497",
+                "66.9276723",
+                "-52.1699538",
+                "-43.6271747"
+            ]
+        }
+    },
+    {
+        "display_name": "Porsanger, Troms og Finnmark, Norge",
+        "name": "Porsanger",
+        "lat": "70.23312680000001",
+        "lon": "25.1993945322406",
+        "address": {
+            "place_id": 298050762,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 406648,
+            "lat": "70.23312680000001",
+            "lon": "25.1993945322406",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4285133485540313,
+            "addresstype": "municipality",
+            "name": "Porsanger",
+            "display_name": "Porsanger, Troms og Finnmark, Norge",
+            "address": {
+                "municipality": "Porsanger",
+                "county": "Troms og Finnmark",
+                "ISO3166-2-lvl4": "NO-54",
+                "country": "Norge",
+                "country_code": "no"
+            },
+            "boundingbox": [
+                "69.7308732",
+                "70.7550634",
+                "23.9113654",
+                "26.14846"
+            ]
+        }
+    },
+    {
+        "display_name": "Santhe Shivara, Channarayapattana taluk, Hassan district, Karnataka, 573131, India",
+        "name": null,
+        "lat": "13.070552622787508",
+        "lon": "76.48012347814026",
+        "address": {
+            "place_id": 141382957,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 156333142,
+            "lat": "13.070552622787508",
+            "lon": "76.48012347814026",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "secondary",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Santhe Shivara, Channarayapattana taluk, Hassan district, Karnataka, 573131, India",
+            "address": {
+                "village": "Santhe Shivara",
+                "county": "Channarayapattana taluk",
+                "state_district": "Hassan district",
+                "state": "Karnataka",
+                "ISO3166-2-lvl4": "IN-KA",
+                "postcode": "573131",
+                "country": "India",
+                "country_code": "in"
+            },
+            "boundingbox": [
+                "13.0704074",
+                "13.0736573",
+                "76.4646506",
+                "76.4806162"
+            ]
+        }
+    },
+    {
+        "display_name": "1711, Gifford Tram, Gifford, Hot Spring County, Arkansas, 72104, United States",
+        "name": null,
+        "lat": "34.378417646859155",
+        "lon": "-92.71688492356243",
+        "address": {
+            "place_id": 320283915,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 12812509,
+            "lat": "34.378417646859155",
+            "lon": "-92.71688492356243",
+            "place_rank": 30,
+            "category": "place",
+            "type": "house",
+            "importance": -1.15,
+            "addresstype": "place",
+            "name": null,
+            "display_name": "1711, Gifford Tram, Gifford, Hot Spring County, Arkansas, 72104, United States",
+            "address": {
+                "house_number": "1711",
+                "road": "Gifford Tram",
+                "hamlet": "Gifford",
+                "county": "Hot Spring County",
+                "state": "Arkansas",
+                "ISO3166-2-lvl4": "US-AR",
+                "postcode": "72104",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "34.378367646859",
+                "34.378467646859",
+                "-92.716934923562",
+                "-92.716834923562"
+            ]
+        }
+    },
+    {
+        "display_name": "Northwest Arctic, Alaska, United States",
+        "name": "Northwest Arctic",
+        "lat": "67.2385127",
+        "lon": "-159.9816347",
+        "address": {
+            "place_id": 297530248,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2605297,
+            "lat": "67.2385127",
+            "lon": "-159.9816347",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.47734310592729867,
+            "addresstype": "county",
+            "name": "Northwest Arctic",
+            "display_name": "Northwest Arctic, Alaska, United States",
+            "address": {
+                "county": "Northwest Arctic",
+                "state": "Alaska",
+                "ISO3166-2-lvl4": "US-AK",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "65.435857",
+                "68.301027",
+                "-165.55557",
+                "-154.132279"
+            ]
+        }
+    },
+    {
+        "display_name": "сельское поселение Кипиево, Ижемский район, Республика Коми, Северо-Западный федеральный округ, Россия",
+        "name": "сельское поселение Кипиево",
+        "lat": "65.93338019999999",
+        "lon": "54.120442575525445",
+        "address": {
+            "place_id": 298372219,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3387522,
+            "lat": "65.93338019999999",
+            "lon": "54.120442575525445",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.2031303339921358,
+            "addresstype": "municipality",
+            "name": "сельское поселение Кипиево",
+            "display_name": "сельское поселение Кипиево, Ижемский район, Республика Коми, Северо-Западный федеральный округ, Россия",
+            "address": {
+                "municipality": "сельское поселение Кипиево",
+                "county": "Ижемский район",
+                "state": "Республика Коми",
+                "ISO3166-2-lvl4": "RU-KO",
+                "region": "Северо-Западный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "65.5025999",
+                "66.3589027",
+                "53.212361",
+                "55.5322233"
+            ]
+        }
+    },
+    {
+        "display_name": "Nanga Lungu, Silat Hulu, Kapuas Hulu, Kalimantan Barat, Indonesia",
+        "name": "Nanga Lungu",
+        "lat": "0.1871818",
+        "lon": "112.1846503",
+        "address": {
+            "place_id": 12506056,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 1308606718,
+            "lat": "0.1871818",
+            "lon": "112.1846503",
+            "place_rank": 19,
+            "category": "place",
+            "type": "village",
+            "importance": 0.275,
+            "addresstype": "village",
+            "name": "Nanga Lungu",
+            "display_name": "Nanga Lungu, Silat Hulu, Kapuas Hulu, Kalimantan Barat, Indonesia",
+            "address": {
+                "village": "Nanga Lungu",
+                "municipality": "Silat Hulu",
+                "county": "Kapuas Hulu",
+                "state": "Kalimantan Barat",
+                "ISO3166-2-lvl4": "ID-KB",
+                "country": "Indonesia",
+                "country_code": "id"
+            },
+            "boundingbox": [
+                "0.1671818",
+                "0.2071818",
+                "112.1646503",
+                "112.2046503"
+            ]
+        }
+    },
+    {
+        "display_name": "虎林市, 鸡西市, 黑龙江省, 中国",
+        "name": null,
+        "lat": "45.66548687328736",
+        "lon": "132.71161086931863",
+        "address": {
+            "place_id": 293836408,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1038187582,
+            "lat": "45.66548687328736",
+            "lon": "132.71161086931863",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "虎林市, 鸡西市, 黑龙江省, 中国",
+            "address": {
+                "county": "虎林市",
+                "region": "鸡西市",
+                "state": "黑龙江省",
+                "ISO3166-2-lvl4": "CN-HL",
+                "country": "中国",
+                "country_code": "cn"
+            },
+            "boundingbox": [
+                "45.6603369",
+                "45.6746131",
+                "132.6610031",
+                "132.7142851"
+            ]
+        }
+    },
+    {
+        "display_name": "Shiv Nagari, Didwana Tehsil, India",
+        "name": "Shiv Nagari",
+        "lat": "27.3543875",
+        "lon": "74.3825912",
+        "address": {
+            "place_id": 77155039,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 7347453914,
+            "lat": "27.3543875",
+            "lon": "74.3825912",
+            "place_rank": 20,
+            "category": "place",
+            "type": "hamlet",
+            "importance": 0.25,
+            "addresstype": "hamlet",
+            "name": "Shiv Nagari",
+            "display_name": "Shiv Nagari, Didwana Tehsil, Nagaur District, Rajasthan, India",
+            "address": {
+                "hamlet": "Shiv Nagari",
+                "county": "Didwana Tehsil",
+                "state_district": "Nagaur District",
+                "state": "Rajasthan",
+                "ISO3166-2-lvl4": "IN-RJ",
+                "country": "India",
+                "country_code": "in"
+            },
+            "boundingbox": [
+                "27.3343875",
+                "27.3743875",
+                "74.3625912",
+                "74.4025912"
+            ]
+        }
+    },
+    {
+        "display_name": "Жилиндинский национальный наслег, Оленёкский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+        "name": "Жилиндинский национальный наслег",
+        "lat": "70.62557204999999",
+        "lon": "115.88832681591123",
+        "address": {
+            "place_id": 298139722,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 4848354,
+            "lat": "70.62557204999999",
+            "lon": "115.88832681591123",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.09919352018435587,
+            "addresstype": "municipality",
+            "name": "Жилиндинский национальный наслег",
+            "display_name": "Жилиндинский национальный наслег, Оленёкский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+            "address": {
+                "municipality": "Жилиндинский национальный наслег",
+                "county": "Оленёкский улус",
+                "state": "Республика Саха (Якутия)",
+                "ISO3166-2-lvl4": "RU-SA",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "68.8942913",
+                "72.3566283",
+                "110.0825273",
+                "122.3849484"
+            ]
+        }
+    },
+    {
+        "display_name": "ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+        "lat": "63.5511048",
+        "lon": "-92.6471525",
+        "address": {
+            "place_id": 298602991,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9489819,
+            "lat": "63.5511048",
+            "lon": "-92.6471525",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4265984015254268,
+            "addresstype": "state_district",
+            "name": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+            "display_name": "ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "56.9678793",
+                "67.0000001",
+                "-105.0082979",
+                "-80.0207693"
+            ]
+        }
+    },
+    {
+        "display_name": "McCreadie Road, Benton County, Washington, 99350, United States",
+        "name": "McCreadie Road",
+        "lat": "46.257538739760015",
+        "lon": "-119.73461146873552",
+        "address": {
+            "place_id": 289799487,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1003259553,
+            "lat": "46.257538739760015",
+            "lon": "-119.73461146873552",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": "McCreadie Road",
+            "display_name": "McCreadie Road, Benton County, Washington, 99350, United States",
+            "address": {
+                "road": "McCreadie Road",
+                "county": "Benton County",
+                "state": "Washington",
+                "ISO3166-2-lvl4": "US-WA",
+                "postcode": "99350",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "46.257234",
+                "46.2580639",
+                "-119.7471372",
+                "-119.7270955"
+            ]
+        }
+    },
+    {
+        "display_name": "Чёрюмчинский наслег, Верхоянский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+        "name": "Чёрюмчинский наслег",
+        "lat": "68.41414995",
+        "lon": "136.76428505316568",
+        "address": {
+            "place_id": 298038865,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 5126102,
+            "lat": "68.41414995",
+            "lon": "136.76428505316568",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "Чёрюмчинский наслег",
+            "display_name": "Чёрюмчинский наслег, Верхоянский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+            "address": {
+                "municipality": "Чёрюмчинский наслег",
+                "county": "Верхоянский улус",
+                "state": "Республика Саха (Якутия)",
+                "ISO3166-2-lvl4": "RU-SA",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "67.68945",
+                "69.1377374",
+                "134.6664061",
+                "138.8160425"
+            ]
+        }
+    },
+    {
+        "display_name": "Хоринский наслег, Олёкминский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+        "name": "Хоринский наслег",
+        "lat": "61.1343786",
+        "lon": "122.00962290861386",
+        "address": {
+            "place_id": 298232865,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 5393233,
+            "lat": "61.1343786",
+            "lon": "122.00962290861386",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "Хоринский наслег",
+            "display_name": "Хоринский наслег, Олёкминский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+            "address": {
+                "municipality": "Хоринский наслег",
+                "county": "Олёкминский улус",
+                "state": "Республика Саха (Якутия)",
+                "ISO3166-2-lvl4": "RU-SA",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "60.5233026",
+                "61.7534443",
+                "120.496699",
+                "123.130253"
+            ]
+        }
+    },
+    {
+        "display_name": "Эвенкийский район, Красноярский край, Сибирский федеральный округ, Россия",
+        "name": "Эвенкийский район",
+        "lat": "64.26957825",
+        "lon": "99.56091209819238",
+        "address": {
+            "place_id": 297551776,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1164668,
+            "lat": "64.26957825",
+            "lon": "99.56091209819238",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3615645021908348,
+            "addresstype": "county",
+            "name": "Эвенкийский район",
+            "display_name": "Эвенкийский район, Красноярский край, Сибирский федеральный округ, Россия",
+            "address": {
+                "county": "Эвенкийский район",
+                "ISO3166-2-lvl6": "RU-EAO",
+                "state": "Красноярский край",
+                "ISO3166-2-lvl4": "RU-KYA",
+                "region": "Сибирский федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "58.6087848",
+                "69.9308774",
+                "88.562981",
+                "108.3892082"
+            ]
+        }
+    },
+    {
+        "display_name": "Marsabit, East Kenya, Kenya",
+        "name": "Marsabit",
+        "lat": "2.85795825",
+        "lon": "37.715489185900395",
+        "address": {
+            "place_id": 298369053,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3495552,
+            "lat": "2.85795825",
+            "lon": "37.715489185900395",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.42996907043929583,
+            "addresstype": "state",
+            "name": "Marsabit",
+            "display_name": "Marsabit, East Kenya, Kenya",
+            "address": {
+                "state": "Marsabit",
+                "ISO3166-2-lvl4": "KE-25",
+                "country": "Kenya",
+                "country_code": "ke"
+            },
+            "boundingbox": [
+                "1.2610344",
+                "4.4550652",
+                "36.0493217",
+                "39.3465018"
+            ]
+        }
+    },
+    {
+        "display_name": "Kalaallit Nunaat",
+        "name": "Kalaallit Nunaat",
+        "lat": "77.6192349",
+        "lon": "-42.8125967",
+        "address": {
+            "place_id": 297656739,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2184073,
+            "lat": "77.6192349",
+            "lon": "-42.8125967",
+            "place_rank": 4,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.6774248677562027,
+            "addresstype": "country",
+            "name": "Kalaallit Nunaat",
+            "display_name": "Kalaallit Nunaat",
+            "address": {
+                "country": "Kalaallit Nunaat",
+                "country_code": "gl"
+            },
+            "boundingbox": [
+                "59.515387",
+                "83.875172",
+                "-74.1250416",
+                "-10.0288759"
+            ]
+        }
+    },
+    {
+        "display_name": "городской округ Воркута, Республика Коми, Северо-Западный федеральный округ, Россия",
+        "name": "городской округ Воркута",
+        "lat": "67.31513245",
+        "lon": "64.14487936122077",
+        "address": {
+            "place_id": 297901999,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1082926,
+            "lat": "67.31513245",
+            "lon": "64.14487936122077",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.29025964622405814,
+            "addresstype": "county",
+            "name": "городской округ Воркута",
+            "display_name": "городской округ Воркута, Республика Коми, Северо-Западный федеральный округ, Россия",
+            "address": {
+                "county": "городской округ Воркута",
+                "state": "Республика Коми",
+                "ISO3166-2-lvl4": "RU-KO",
+                "region": "Северо-Западный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "66.2087406",
+                "68.4226624",
+                "61.6220598",
+                "66.2516859"
+            ]
+        }
+    },
+    {
+        "display_name": "Unorganized Division No. 22, Division No. 22, Manitoba, Canada",
+        "name": "Unorganized Division No. 22",
+        "lat": "54.83275415",
+        "lon": "-95.55774380073055",
+        "address": {
+            "place_id": 339910765,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 14438705,
+            "lat": "54.83275415",
+            "lon": "-95.55774380073055",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.35,
+            "addresstype": "city",
+            "name": "Unorganized Division No. 22",
+            "display_name": "Unorganized Division No. 22, Division No. 22, Manitoba, Canada",
+            "address": {
+                "city": "Unorganized Division No. 22",
+                "county": "Division No. 22",
+                "state": "Manitoba",
+                "ISO3166-2-lvl4": "CA-MB",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "53.2996379",
+                "56.3388029",
+                "-99.0534366",
+                "-91.6006916"
+            ]
+        }
+    },
+    {
+        "display_name": "Корчів, Белзька міська громада, Червоноградський район, Львівська область, 80060, Україна",
+        "name": "Корчів",
+        "lat": "50.3906005",
+        "lon": "23.8301424",
+        "address": {
+            "place_id": 1208749,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 337522852,
+            "lat": "50.3906005",
+            "lon": "23.8301424",
+            "place_rank": 19,
+            "category": "place",
+            "type": "village",
+            "importance": 0.3417625908494562,
+            "addresstype": "village",
+            "name": "Корчів",
+            "display_name": "Корчів, Белзька міська громада, Червоноградський район, Львівська область, 80060, Україна",
+            "address": {
+                "village": "Корчів",
+                "municipality": "Белзька міська громада",
+                "district": "Червоноградський район",
+                "state": "Львівська область",
+                "ISO3166-2-lvl4": "UA-46",
+                "postcode": "80060",
+                "country": "Україна",
+                "country_code": "ua"
+            },
+            "boundingbox": [
+                "50.3706005",
+                "50.4106005",
+                "23.8101424",
+                "23.8501424"
+            ]
+        }
+    },
+    {
+        "display_name": "Анадырский район, Чукотский автономный округ, Дальневосточный федеральный округ, Россия",
+        "name": "Анадырский район",
+        "lat": "64.88658505000001",
+        "lon": "172.67630035403363",
+        "address": {
+            "place_id": 297698042,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 1949879,
+            "lat": "64.88658505000001",
+            "lon": "172.67630035403363",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3587056755444554,
+            "addresstype": "county",
+            "name": "Анадырский район",
+            "display_name": "Анадырский район, Чукотский автономный округ, Дальневосточный федеральный округ, Россия",
+            "address": {
+                "county": "Анадырский район",
+                "state": "Чукотский автономный округ",
+                "ISO3166-2-lvl4": "RU-CHU",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "61.6078007",
+                "68.166554",
+                "-180",
+                "180"
+            ]
+        }
+    },
+    {
+        "display_name": "Hassi Messaoud ⵃⴰⵙⵉ ⵎⴻⵙⵄⵓⴷ حاسي مسعود, Daïra Hassi Messaoud, Ouargla ⵡⴰⵔⴳⵍⴰ ورقلة, Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+        "name": "Hassi Messaoud ⵃⴰⵙⵉ ⵎⴻⵙⵄⵓⴷ حاسي مسعود",
+        "lat": "31.6957444",
+        "lon": "6.0604297",
+        "address": {
+            "place_id": 298336873,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 6542939,
+            "lat": "31.6957444",
+            "lon": "6.0604297",
+            "place_rank": 16,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.39248665594789056,
+            "addresstype": "city",
+            "name": "Hassi Messaoud ⵃⴰⵙⵉ ⵎⴻⵙⵄⵓⴷ حاسي مسعود",
+            "display_name": "Hassi Messaoud ⵃⴰⵙⵉ ⵎⴻⵙⵄⵓⴷ حاسي مسعود, Daïra Hassi Messaoud, Ouargla ⵡⴰⵔⴳⵍⴰ ورقلة, Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+            "address": {
+                "town": "Hassi Messaoud ⵃⴰⵙⵉ ⵎⴻⵙⵄⵓⴷ حاسي مسعود",
+                "county": "Daïra Hassi Messaoud",
+                "state": "Ouargla ⵡⴰⵔⴳⵍⴰ ورقلة",
+                "ISO3166-2-lvl4": "DZ-30",
+                "country": "Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+                "country_code": "dz"
+            },
+            "boundingbox": [
+                "28.498373",
+                "32.6149072",
+                "2.996532",
+                "7.06373"
+            ]
+        }
+    },
+    {
+        "display_name": "Горки, Панинское сельское поселение, Спасский район, Рязанская область, Центральный федеральный округ, 391521, Россия",
+        "name": null,
+        "lat": "54.43396393219808",
+        "lon": "40.33427705103795",
+        "address": {
+            "place_id": 118448260,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 49706169,
+            "lat": "54.43396393219808",
+            "lon": "40.33427705103795",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Горки, Панинское сельское поселение, Спасский район, Рязанская область, Центральный федеральный округ, 391521, Россия",
+            "address": {
+                "hamlet": "Горки",
+                "municipality": "Панинское сельское поселение",
+                "county": "Спасский район",
+                "state": "Рязанская область",
+                "ISO3166-2-lvl4": "RU-RYA",
+                "region": "Центральный федеральный округ",
+                "postcode": "391521",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "54.4195387",
+                "54.4372182",
+                "40.3006655",
+                "40.3503755"
+            ]
+        }
+    },
+    {
+        "display_name": "Pool, Congo",
+        "name": "Pool",
+        "lat": "-3.8265878",
+        "lon": "14.708906150811853",
+        "address": {
+            "place_id": 297894716,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3220595,
+            "lat": "-3.8265878",
+            "lon": "14.708906150811853",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4305988542685404,
+            "addresstype": "state",
+            "name": "Pool",
+            "display_name": "Pool, Congo",
+            "address": {
+                "state": "Pool",
+                "ISO3166-2-lvl4": "CG-12",
+                "country": "Congo",
+                "country_code": "cg"
+            },
+            "boundingbox": [
+                "-4.922139",
+                "-2.7174566",
+                "13.8602706",
+                "16.2145623"
+            ]
+        }
+    },
+    {
+        "display_name": "Alba / Scotland, United Kingdom",
+        "name": "Alba / Scotland",
+        "lat": "56.7861112",
+        "lon": "-4.1140518",
+        "address": {
+            "place_id": 298026136,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 58446,
+            "lat": "56.7861112",
+            "lon": "-4.1140518",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.7789745254099388,
+            "addresstype": "state",
+            "name": "Alba / Scotland",
+            "display_name": "Alba / Scotland, United Kingdom",
+            "address": {
+                "state": "Alba / Scotland",
+                "ISO3166-2-lvl4": "GB-SCT",
+                "country": "United Kingdom",
+                "country_code": "gb"
+            },
+            "boundingbox": [
+                "54.4339831",
+                "61.061",
+                "-14.015517",
+                "-0.3209221"
+            ]
+        }
+    },
+    {
+        "display_name": "G109, 黑马河乡, 共和县, 海南藏族自治州, 青海省, 中国",
+        "name": "G109",
+        "lat": "36.712763202942554",
+        "lon": "99.7948740458127",
+        "address": {
+            "place_id": 247858466,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 714417898,
+            "lat": "36.712763202942554",
+            "lon": "99.7948740458127",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "trunk",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": "G109",
+            "display_name": "G109, 黑马河乡, 共和县, 海南藏族自治州, 青海省, 中国",
+            "address": {
+                "road": "G109",
+                "town": "黑马河乡",
+                "county": "共和县",
+                "region": "海南藏族自治州",
+                "state": "青海省",
+                "ISO3166-2-lvl4": "CN-QH",
+                "country": "中国",
+                "country_code": "cn"
+            },
+            "boundingbox": [
+                "36.7091809",
+                "36.7135381",
+                "99.7935415",
+                "99.8028009"
+            ]
+        }
+    },
+    {
+        "display_name": "Усть-Янский национальный наслег, Усть-Янский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+        "name": "Усть-Янский национальный наслег",
+        "lat": "71.14270575",
+        "lon": "136.2660950170917",
+        "address": {
+            "place_id": 299289646,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 12445120,
+            "lat": "71.14270575",
+            "lon": "136.2660950170917",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.17461773632832445,
+            "addresstype": "municipality",
+            "name": "Усть-Янский национальный наслег",
+            "display_name": "Усть-Янский национальный наслег, Усть-Янский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+            "address": {
+                "municipality": "Усть-Янский национальный наслег",
+                "county": "Усть-Янский улус",
+                "state": "Республика Саха (Якутия)",
+                "ISO3166-2-lvl4": "RU-SA",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "70.6461923",
+                "71.6537239",
+                "133.7896478",
+                "138.764291"
+            ]
+        }
+    },
+    {
+        "display_name": "Русско-Устьинский наслег, Аллаиховский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+        "name": "Русско-Устьинский наслег",
+        "lat": "71.42388034999999",
+        "lon": "149.66812848822104",
+        "address": {
+            "place_id": 298449223,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 4848554,
+            "lat": "71.42388034999999",
+            "lon": "149.66812848822104",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "Русско-Устьинский наслег",
+            "display_name": "Русско-Устьинский наслег, Аллаиховский улус, Республика Саха (Якутия), Дальневосточный федеральный округ, Россия",
+            "address": {
+                "municipality": "Русско-Устьинский наслег",
+                "county": "Аллаиховский улус",
+                "state": "Республика Саха (Якутия)",
+                "ISO3166-2-lvl4": "RU-SA",
+                "region": "Дальневосточный федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "70.5239854",
+                "72.3281709",
+                "146.8593073",
+                "152.5528466"
+            ]
+        }
+    },
+    {
+        "display_name": "渠沟镇, 濉溪县",
+        "name": null,
+        "lat": "33.95427506707297",
+        "lon": "116.7396018880814",
+        "address": {
+            "place_id": 294942721,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 1054222413,
+            "lat": "33.95427506707297",
+            "lon": "116.7396018880814",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "construction",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "渠沟镇, 濉溪县",
+            "address": {
+                "town": "渠沟镇",
+                "city": "濉溪县",
+                "state": "安徽省",
+                "ISO3166-2-lvl4": "CN-AH",
+                "country": "中国",
+                "country_code": "cn"
+            },
+            "boundingbox": [
+                "33.9542357",
+                "33.9551388",
+                "116.7205202",
+                "116.752242"
+            ]
+        }
+    },
+    {
+        "display_name": "B23, Kohleben, Mürzzuschlag, Bezirk Bruck-Mürzzuschlag, Steiermark, 8680, Österreich",
+        "name": "B23",
+        "lat": "47.63718542155063",
+        "lon": "15.648834330985112",
+        "address": {
+            "place_id": 193789215,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 375831954,
+            "lat": "47.63718542155063",
+            "lon": "15.648834330985112",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "primary",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": "B23",
+            "display_name": "B23, Kohleben, Mürzzuschlag, Bezirk Bruck-Mürzzuschlag, Steiermark, 8680, Österreich",
+            "address": {
+                "road": "B23",
+                "hamlet": "Kohleben",
+                "town": "Mürzzuschlag",
+                "county": "Bezirk Bruck-Mürzzuschlag",
+                "state": "Steiermark",
+                "ISO3166-2-lvl4": "AT-6",
+                "postcode": "8680",
+                "country": "Österreich",
+                "country_code": "at"
+            },
+            "boundingbox": [
+                "47.6332196",
+                "47.637385",
+                "15.6484821",
+                "15.654775"
+            ]
+        }
+    },
+    {
+        "display_name": "Three Rivers, Cloncurry Shire, Queensland, Australia",
+        "name": "Three Rivers",
+        "lat": "-19.8473797",
+        "lon": "140.1667328",
+        "address": {
+            "place_id": 298860625,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 11677397,
+            "lat": "-19.8473797",
+            "lon": "140.1667328",
+            "place_rank": 18,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.18764122278025944,
+            "addresstype": "suburb",
+            "name": "Three Rivers",
+            "display_name": "Three Rivers, Cloncurry Shire, Queensland, Australia",
+            "address": {
+                "hamlet": "Three Rivers",
+                "municipality": "Cloncurry Shire",
+                "state": "Queensland",
+                "ISO3166-2-lvl4": "AU-QLD",
+                "country": "Australia",
+                "country_code": "au"
+            },
+            "boundingbox": [
+                "-20.592974",
+                "-19.436571",
+                "139.470009",
+                "140.899309"
+            ]
+        }
+    },
+    {
+        "display_name": "Arrowsmith, Shire Of Irwin, Western Australia, Australia",
+        "name": "Arrowsmith",
+        "lat": "-29.554151",
+        "lon": "115.11588485488761",
+        "address": {
+            "place_id": 298742946,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 11689911,
+            "lat": "-29.554151",
+            "lon": "115.11588485488761",
+            "place_rank": 18,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.2832082617679252,
+            "addresstype": "city_district",
+            "name": "Arrowsmith",
+            "display_name": "Arrowsmith, Shire Of Irwin, Western Australia, Australia",
+            "address": {
+                "city_district": "Arrowsmith",
+                "municipality": "Shire Of Irwin",
+                "state": "Western Australia",
+                "ISO3166-2-lvl4": "AU-WA",
+                "country": "Australia",
+                "country_code": "au"
+            },
+            "boundingbox": [
+                "-29.702509",
+                "-29.405592",
+                "114.957922",
+                "115.253389"
+            ]
+        }
+    },
+    {
+        "display_name": "Dehcho Region, Northwest Territories, Canada",
+        "name": "Dehcho Region",
+        "lat": "61.9858134",
+        "lon": "-122.1586383",
+        "address": {
+            "place_id": 299338379,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9490116,
+            "lat": "61.9858134",
+            "lon": "-122.1586383",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.32371021353085705,
+            "addresstype": "state_district",
+            "name": "Dehcho Region",
+            "display_name": "Dehcho Region, Northwest Territories, Canada",
+            "address": {
+                "county": "Dehcho Region",
+                "state": "Northwest Territories",
+                "ISO3166-2-lvl4": "CA-NT",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "60.0001788",
+                "64.2515145",
+                "-129.1684801",
+                "-119.0834987"
+            ]
+        }
+    },
+    {
+        "display_name": "ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+        "lat": "63.5511048",
+        "lon": "-92.6471525",
+        "address": {
+            "place_id": 298602991,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9489819,
+            "lat": "63.5511048",
+            "lon": "-92.6471525",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4265984015254268,
+            "addresstype": "state_district",
+            "name": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+            "display_name": "ᑭᕙᓪᓕᖅ Kivalliq Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᑭᕙᓪᓕᖅ Kivalliq Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "56.9678793",
+                "67.0000001",
+                "-105.0082979",
+                "-80.0207693"
+            ]
+        }
+    },
+    {
+        "display_name": "сельское поселение Караул, Таймырский Долгано-Ненецкий район, Красноярский край, Сибирский федеральный округ, Россия",
+        "name": "сельское поселение Караул",
+        "lat": "70.5221205",
+        "lon": "83.4741436778285",
+        "address": {
+            "place_id": 298197829,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 7008173,
+            "lat": "70.5221205",
+            "lon": "83.4741436778285",
+            "place_rank": 14,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4,
+            "addresstype": "municipality",
+            "name": "сельское поселение Караул",
+            "display_name": "сельское поселение Караул, Таймырский Долгано-Ненецкий район, Красноярский край, Сибирский федеральный округ, Россия",
+            "address": {
+                "municipality": "сельское поселение Караул",
+                "county": "Таймырский Долгано-Ненецкий район",
+                "state": "Красноярский край",
+                "ISO3166-2-lvl4": "RU-KYA",
+                "region": "Сибирский федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "68.4724444",
+                "72.5726801",
+                "78.4238432",
+                "88.9347053"
+            ]
+        }
+    },
+    {
+        "display_name": "Antequera, Málaga, Andalucía, España",
+        "name": null,
+        "lat": "37.1818785",
+        "lon": "-4.5430015",
+        "address": {
+            "place_id": 140974576,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 154341717,
+            "lat": "37.1818785",
+            "lon": "-4.5430015",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Antequera, Málaga, Andalucía, España",
+            "address": {
+                "town": "Antequera",
+                "county": "Antequera",
+                "state_district": "Málaga",
+                "ISO3166-2-lvl6": "ES-MA",
+                "state": "Andalucía",
+                "ISO3166-2-lvl4": "ES-AN",
+                "country": "España",
+                "country_code": "es"
+            },
+            "boundingbox": [
+                "37.1806305",
+                "37.1827033",
+                "-4.5452669",
+                "-4.5308108"
+            ]
+        }
+    },
+    {
+        "display_name": "Sonsorol, Belau",
+        "name": "Sonsorol",
+        "lat": "4.85902575",
+        "lon": "132.5241397650057",
+        "address": {
+            "place_id": 298501429,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 3825300,
+            "lat": "4.85902575",
+            "lon": "132.5241397650057",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3785485023418972,
+            "addresstype": "state",
+            "name": "Sonsorol",
+            "display_name": "Sonsorol, Belau",
+            "address": {
+                "state": "Sonsorol",
+                "ISO3166-2-lvl4": "PW-370",
+                "country": "Belau",
+                "country_code": "pw"
+            },
+            "boundingbox": [
+                "3.4987676",
+                "6.4725124",
+                "131.3321126",
+                "133.6798659"
+            ]
+        }
+    },
+    {
+        "display_name": "Kabinda, Lomami, République démocratique du Congo",
+        "name": "Kabinda",
+        "lat": "-6.40440225",
+        "lon": "24.647577342766233",
+        "address": {
+            "place_id": 297396713,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 193093,
+            "lat": "-6.40440225",
+            "lon": "24.647577342766233",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.12816097156854608,
+            "addresstype": "county",
+            "name": "Kabinda",
+            "display_name": "Kabinda, Lomami, République démocratique du Congo",
+            "address": {
+                "county": "Kabinda",
+                "state": "Lomami",
+                "ISO3166-2-lvl4": "CD-LO",
+                "country": "République démocratique du Congo",
+                "country_code": "cd"
+            },
+            "boundingbox": [
+                "-7.9951541",
+                "-4.8136693",
+                "23.0152241",
+                "26.2782604"
+            ]
+        }
+    },
+    {
+        "display_name": "Hillsdale No. 440, Saskatchewan, Canada",
+        "name": null,
+        "lat": "52.75485854370935",
+        "lon": "-109.58591894708759",
+        "address": {
+            "place_id": 152190549,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 196929913,
+            "lat": "52.75485854370935",
+            "lon": "-109.58591894708759",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "unclassified",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Hillsdale No. 440, Saskatchewan, Canada",
+            "address": {
+                "city": "Hillsdale No. 440",
+                "state": "Saskatchewan",
+                "ISO3166-2-lvl4": "CA-SK",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "52.7547978",
+                "52.7548736",
+                "-109.6082429",
+                "-109.5116598"
+            ]
+        }
+    },
+    {
+        "display_name": "共和县, 海南藏族自治州, 青海省, 中国",
+        "name": "共和县",
+        "lat": "36.4137534",
+        "lon": "100.1339764",
+        "address": {
+            "place_id": 298410186,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 4479119,
+            "lat": "36.4137534",
+            "lon": "100.1339764",
+            "place_rank": 12,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3921686892957473,
+            "addresstype": "county",
+            "name": "共和县",
+            "display_name": "共和县, 海南藏族自治州, 青海省, 中国",
+            "address": {
+                "county": "共和县",
+                "region": "海南藏族自治州",
+                "state": "青海省",
+                "ISO3166-2-lvl4": "CN-QH",
+                "country": "中国",
+                "country_code": "cn"
+            },
+            "boundingbox": [
+                "35.7632839",
+                "37.1769238",
+                "98.9195545",
+                "101.2173741"
+            ]
+        }
+    },
+    {
+        "display_name": "Rock Creek District, Corson County, South Dakota, United States",
+        "name": null,
+        "lat": "45.90853955523753",
+        "lon": "-101.43221732838774",
+        "address": {
+            "place_id": 102754467,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 9851845,
+            "lat": "45.90853955523753",
+            "lon": "-101.43221732838774",
+            "place_rank": 26,
+            "category": "highway",
+            "type": "residential",
+            "importance": 0.09999999999999998,
+            "addresstype": "road",
+            "name": null,
+            "display_name": "Rock Creek District, Corson County, South Dakota, United States",
+            "address": {
+                "municipality": "Rock Creek District",
+                "county": "Corson County",
+                "state": "South Dakota",
+                "ISO3166-2-lvl4": "US-SD",
+                "country": "United States",
+                "country_code": "us"
+            },
+            "boundingbox": [
+                "45.891308",
+                "45.920121",
+                "-101.432243",
+                "-101.4299314"
+            ]
+        }
+    },
+    {
+        "display_name": "Sol Naciente, Inambari, Tambopata, Madre de Dios, Perú",
+        "name": "Sol Naciente",
+        "lat": "-12.8994344",
+        "lon": "-69.8989248",
+        "address": {
+            "place_id": 95455088,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 9342646313,
+            "lat": "-12.8994344",
+            "lon": "-69.8989248",
+            "place_rank": 19,
+            "category": "place",
+            "type": "village",
+            "importance": 0.275,
+            "addresstype": "village",
+            "name": "Sol Naciente",
+            "display_name": "Sol Naciente, Inambari, Tambopata, Madre de Dios, Perú",
+            "address": {
+                "village": "Sol Naciente",
+                "city": "Inambari",
+                "region": "Tambopata",
+                "state": "Madre de Dios",
+                "ISO3166-2-lvl4": "PE-MDD",
+                "country": "Perú",
+                "country_code": "pe"
+            },
+            "boundingbox": [
+                "-12.9194344",
+                "-12.8794344",
+                "-69.9189248",
+                "-69.8789248"
+            ]
+        }
+    },
+    {
+        "display_name": "Mbomou, Ködörösêse tî Bêafrîka - République Centrafricaine",
+        "name": "Mbomou",
+        "lat": "5.5230899",
+        "lon": "23.4445705",
+        "address": {
+            "place_id": 297771288,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 2634531,
+            "lat": "5.5230899",
+            "lon": "23.4445705",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4064295239785842,
+            "addresstype": "state",
+            "name": "Mbomou",
+            "display_name": "Mbomou, Ködörösêse tî Bêafrîka - République Centrafricaine",
+            "address": {
+                "state": "Mbomou",
+                "ISO3166-2-lvl4": "CF-MB",
+                "country": "Ködörösêse tî Bêafrîka - République Centrafricaine",
+                "country_code": "cf"
+            },
+            "boundingbox": [
+                "4.1150127",
+                "6.74445",
+                "21.7410409",
+                "25.17924"
+            ]
+        }
+    },
+    {
+        "display_name": "Hawkwood, North Burnett Regional, Queensland, Australia",
+        "name": "Hawkwood",
+        "lat": "-25.8669805",
+        "lon": "150.85289225227956",
+        "address": {
+            "place_id": 299312206,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 11674999,
+            "lat": "-25.8669805",
+            "lon": "150.85289225227956",
+            "place_rank": 18,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.3,
+            "addresstype": "city_district",
+            "name": "Hawkwood",
+            "display_name": "Hawkwood, North Burnett Regional, Queensland, Australia",
+            "address": {
+                "city_district": "Hawkwood",
+                "municipality": "North Burnett Regional",
+                "state": "Queensland",
+                "ISO3166-2-lvl4": "AU-QLD",
+                "country": "Australia",
+                "country_code": "au"
+            },
+            "boundingbox": [
+                "-26.056405",
+                "-25.678534",
+                "150.643149",
+                "151.066535"
+            ]
+        }
+    },
+    {
+        "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+        "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+        "lat": "76.9053119",
+        "lon": "-93.5025588",
+        "address": {
+            "place_id": 298717169,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 9493166,
+            "lat": "76.9053119",
+            "lon": "-93.5025588",
+            "place_rank": 10,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.4711452259955522,
+            "addresstype": "state_district",
+            "name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+            "display_name": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada",
+            "address": {
+                "county": "ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region",
+                "state": "ᓄᓇᕗᑦ Nunavut",
+                "ISO3166-2-lvl4": "CA-NU",
+                "country": "Canada",
+                "country_code": "ca"
+            },
+            "boundingbox": [
+                "51.1453318",
+                "83.3362128",
+                "-110.003308",
+                "-59.6136767"
+            ]
+        }
+    },
+    {
+        "display_name": "Дагестан, Северо-Кавказский федеральный округ, Россия",
+        "name": "Дагестан",
+        "lat": "43.0883099",
+        "lon": "47.14988017944228",
+        "address": {
+            "place_id": 297135092,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "relation",
+            "osm_id": 109876,
+            "lat": "43.0883099",
+            "lon": "47.14988017944228",
+            "place_rank": 8,
+            "category": "boundary",
+            "type": "administrative",
+            "importance": 0.612608980368612,
+            "addresstype": "state",
+            "name": "Дагестан",
+            "display_name": "Дагестан, Северо-Кавказский федеральный округ, Россия",
+            "address": {
+                "state": "Дагестан",
+                "ISO3166-2-lvl4": "RU-DA",
+                "region": "Северо-Кавказский федеральный округ",
+                "country": "Россия",
+                "country_code": "ru"
+            },
+            "boundingbox": [
+                "41.1850968",
+                "44.9917214",
+                "45.1034215",
+                "48.8090441"
+            ]
+        }
+    }
+]
